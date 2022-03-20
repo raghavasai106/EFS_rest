@@ -42,7 +42,6 @@ INSTALLED_APPS = [
     'django_filters',
     'corsheaders',
     'portfolio',
-    'crispy_forms',
 ]
 
 MIDDLEWARE = [
